@@ -1,5 +1,5 @@
 # 7DaysOfCode 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/mateuscordeiro011/remember-me/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/mateuscordeiro011/7DaysOfCode/blob/main/LICENSE)
 
 # Sobre o projeto
 
